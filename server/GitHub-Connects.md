@@ -7,7 +7,7 @@ git status
 git diff
 git add index.html
 git diff --staged
-git commit -m "Update QR heading"
+git commit -m "Updated the Client Server"
 git push
 ```
 
